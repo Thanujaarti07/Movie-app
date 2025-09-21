@@ -1,0 +1,249 @@
+{
+  "moviecerosel": [
+    {
+      "id": "001",
+      "title": "SOORARAI POTTRU",
+      "description": "Based on a true story of an ambitious man who dreams of launching a low-cost airline for everyone.",
+      "imageUrl": "/images/sooraraipottru.jpg"
+    },
+    {
+      "id": "002",
+      "title": "MASTER",
+      "description": "An alcoholic professor is sent to a juvenile school, where he clashes with a ruthless gangster.",
+      "imageUrl": "/images/master.jpg"
+    },
+    {
+      "id": "003",
+      "title": "96",
+      "description": "Two high-school sweethearts meet again after 22 years at a school reunion, reliving their memories.",
+      "imageUrl": "/images/96.jpg"
+    }
+  ],
+  "trendingnow": [
+    {
+      "id": "1",
+      "title": "VIKRAM",
+      "description": "An undercover cop’s hunt for a dangerous drug syndicate turns into a deadly cat-and-mouse chase.",
+      "imageUrl": "/images/vikram.jpg",
+      "trailerUrl": "https://www.youtube.com/embed/OKBMCL-frPU",
+      "cast": [
+        "Kamal Haasan",
+        "Vijay Sethupathi",
+        "Fahadh Faasil"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "JAI BHIM",
+      "description": "Based on true events, a lawyer fights to bring justice to a marginalized tribal community.",
+      "imageUrl": "/images/jaibhim.jpg",
+      "trailerUrl": "https://www.youtube.com/embed/Gc6dEDnL8JA",
+      "cast": [
+        "Suriya",
+        "Lijomol Jose",
+        "Manikandan"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "PONNIYIN SELVAN: I",
+      "description": "A grand retelling of the Chola dynasty’s power struggles and royal conspiracies.",
+      "imageUrl": "/images/ps.jpg",
+      "trailerUrl": "https://www.youtube.com/embed/D4qAQYlgZQs",
+      "cast": [
+        "Vikram",
+        "Aishwarya Rai Bachchan",
+        "Jayam Ravi",
+        "Karthi",
+        "Trisha"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "KAITHI",
+      "description": "An ex-convict must save a group of policemen from a deadly gang while avoiding capture himself.",
+      "imageUrl": "/images/kaithi.webp",
+      "trailerUrl": "https://www.youtube.com/embed/g79CvhHaj5I",
+      "cast": [
+        "Karthi",
+        "Narain",
+        "Arjun Das"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "GOAT (Greatest of All Time)",
+      "description": "A sci-fi action entertainer featuring high-octane stunts and Vijay in a dual role.",
+      "imageUrl": "/images/goat.jpg",
+      "trailerUrl": "https://www.youtube.com/embed/jxCRlebiebw",
+      "cast": [
+        "Vijay",
+        "Prashanth",
+        "Sneha"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "KGF CHAPTER-2",
+      "description": "A high-octane action drama about the rise of Rocky in the gold mines of Kolar.",
+      "imageUrl": "/images/kgf.webp",
+      "trailerUrl": "https://www.youtube.com/embed/-KfsY-qwBS0",
+      "cast": [
+        "Yash",
+        "Srinidhi Shetty",
+        "Anant Nag"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "JAILER",
+      "description": "“Jailer” follows a retired prison warden forced back into his old world when a ruthless gang threatens his family.",
+      "imageUrl": "/images/jailer.jpg",
+      "trailerUrl": "https://www.youtube.com/embed/Y5BeWdODPqo",
+      "cast": [
+        "Rajinikanth",
+        "Mohammed Shafi",
+        "Vinayakan"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "VIKRAM VEDHA",
+      "description": "A gripping cat-and-mouse thriller between a sharp police officer and a dreaded gangster.",
+      "imageUrl": "/images/v2.jpg",
+      "trailerUrl": "https://www.youtube.com/embed/eLucCWmf6V4",
+      "cast": [
+        "R. Madhavan",
+        "Vijay Sethupathi",
+        "Shraddha Srinath"
+      ]
+    }
+  ],
+  "peoplefavorite": [
+    {
+      "id": "01",
+      "title": "MEIYAZHAGAN",
+      "description": "A character-driven Tamil drama (2024) starring Karthi and Arvind Swamy, exploring relationships and personal struggles.",
+      "imageUrl": "/images/meiyazhagan.webp",
+      "trailerUrl": "https://www.youtube.com/embed/YGJOcMtnG1Q",
+      "cast": [
+        "Karthi",
+        "Arvind Swamy",
+        "Rajkiran",
+        "Sri Divya"
+      ]
+    },
+    {
+      "id": "02",
+      "title": "3BHK",
+      "description": "A 2025 coming-of-age family drama about a family's prolonged struggle to buy a three-bedroom house.",
+      "imageUrl": "/images/3bhk.webp",
+      "trailerUrl": "https://www.youtube.com/embed/BoxOVQ5oP9Y",
+      "cast": [
+        "Siddharth",
+        "R. Sarathkumar",
+        "Devayani",
+        "Meetha Raghunath"
+      ]
+    },
+    {
+      "id": "03",
+      "title": "GOOD NIGHT",
+      "description": "A 2023 Tamil romantic comedy about an IT youngster whose loud snoring upends his life and relationships.",
+      "imageUrl": "/images/goodnight.webp",
+      "trailerUrl": "https://www.youtube.com/embed/eLPePlnFoho",
+      "cast": [
+        "Manikandan",
+        "Meetha Raghunath"
+      ]
+    },
+    {
+      "id": "04",
+      "title": "TOURIST FAMILY",
+      "description": "A 2025 comedy-drama following a family's travel adventures filled with humour and heart.",
+      "imageUrl": "/images/touristfamily.webp",
+      "trailerUrl": "https://www.youtube.com/embed/9sH1PoGOydc",
+      "cast": [
+        "M. Sasikumar",
+        "Simran",
+        "Mithun Jai Sankar",
+        "Kamalesh Jagan",
+        "Yogi Babu"
+      ]
+    },
+    {
+      "id": "05",
+      "title": "DEAR COMRADE",
+      "description": "A hot-headed student leader falls in love with a state-level cricketer, but his temper and her cricket career create problems until they both learn and grow.",
+      "imageUrl": "/images/dear comrade.jpg",
+      "trailerUrl": "https://www.youtube.com/embed/NxwB0pPiCyg",
+      "cast": [
+        "Vijay Deverakonda",
+        "Rashmika Mandanna"
+      ]
+    },
+    {
+      "id": "06",
+      "title": "THALAIVAN THALAIVII",
+      "description": "A 2025 Tamil romantic-action comedy directed by Pandiraj, starring Vijay Sethupathi and Nithya Menen.",
+      "imageUrl": "/images/t2.jpg",
+      "trailerUrl": "https://www.youtube.com/embed/nyURE5vmj2I",
+      "cast": [
+        "Vijay Sethupathi",
+        "Nithya Menen"
+      ]
+    },
+    {
+      "id": "07",
+      "title": "KADAISI VIVASAYI",
+      "description": "An ageing farmer keeps traditional farming alive, reminding society of its bond with nature.",
+      "imageUrl": "/images/kadaisivivasayi.webp",
+      "trailerUrl": "https://www.youtube.com/embed/cGorkMwcjd4",
+      "cast": [
+        "Vijay Sethupathi",
+        "Nallandi"
+      ]
+    },
+    {
+      "id": "08",
+      "title": "KADHALUM KADANTHU POGUM",
+      "description": "A small-town girl in Chennai befriends her ex-rowdy neighbour, and their friendship slowly turns into love.",
+      "imageUrl": "/images/kakapo.jpg",
+      "trailerUrl": "https://www.youtube.com/embed/tTaKnjPbOPU",
+      "cast": [
+        "Vijay Sethupathi",
+        "Madonna Sebastian"
+      ]
+    }
+  ],
+  "myfavorites": [
+    {
+      "id": "2",
+      "title": "JAI BHIM",
+      "description": "Based on true events, a lawyer fights to bring justice to a marginalized tribal community.",
+      "imageUrl": "/images/jaibhim.jpg",
+      "trailerUrl": "https://www.youtube.com/embed/Gc6dEDnL8JA",
+      "cast": [
+        "Suriya",
+        "Lijomol Jose",
+        "Manikandan"
+      ],
+      "source": "trendingmovie"
+    },
+    {
+      "id": "01",
+      "title": "MEIYAZHAGAN",
+      "description": "A character-driven Tamil drama (2024) starring Karthi and Arvind Swamy, exploring relationships and personal struggles.",
+      "imageUrl": "/images/meiyazhagan.webp",
+      "trailerUrl": "https://www.youtube.com/embed/YGJOcMtnG1Q",
+      "cast": [
+        "Karthi",
+        "Arvind Swamy",
+        "Rajkiran",
+        "Sri Divya"
+      ],
+      "source": "peoplefav"
+    }
+ 
+  ]
+}
