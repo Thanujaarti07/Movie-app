@@ -243,7 +243,19 @@
         "Sri Divya"
       ],
       "source": "peoplefav"
+    },
+    {
+      "id": "1",
+      "title": "VIKRAM",
+      "description": "An undercover cop’s hunt for a dangerous drug syndicate turns into a deadly cat-and-mouse chase.",
+      "imageUrl": "/images/vikram.jpg",
+      "trailerUrl": "https://www.youtube.com/embed/OKBMCL-frPU",
+      "cast": [
+        "Kamal Haasan",
+        "Vijay Sethupathi",
+        "Fahadh Faasil"
+      ],
+      "source": "trendingmovie"
     }
- 
   ]
 }
