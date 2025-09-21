@@ -2,9 +2,10 @@
   "moviecerosel": [
     {
       "id": "001",
-      "title": "SOORARAI POTTRU",
-      "description": "Based on a true story of an ambitious man who dreams of launching a low-cost airline for everyone.",
-      "imageUrl": "/images/sooraraipottru.jpg"
+      "title": "96",
+      "description": "Two high-school sweethearts meet again after 22 years at a school reunion, reliving their memories.",
+      "imageUrl": "/images/96.jpg"
+      
     },
     {
       "id": "002",
@@ -14,9 +15,9 @@
     },
     {
       "id": "003",
-      "title": "96",
-      "description": "Two high-school sweethearts meet again after 22 years at a school reunion, reliving their memories.",
-      "imageUrl": "/images/96.jpg"
+      "title": "SOORARAI POTTRU",
+      "description": "Based on a true story of an ambitious man who dreams of launching a low-cost airline for everyone.",
+      "imageUrl": "/images/sooraraipottru.jpg"
     }
   ],
   "trendingnow": [
