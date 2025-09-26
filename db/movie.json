@@ -256,20 +256,6 @@
         "Fahadh Faasil"
       ],
       "source": "trendingmovie"
-    },
-    {
-      "id": "01",
-      "title": "MEIYAZHAGAN",
-      "description": "A character-driven Tamil drama (2024) starring Karthi and Arvind Swamy, exploring relationships and personal struggles.",
-      "imageUrl": "/images/meiyazhagan.webp",
-      "trailerUrl": "https://www.youtube.com/embed/YGJOcMtnG1Q",
-      "cast": [
-        "Karthi",
-        "Arvind Swamy",
-        "Rajkiran",
-        "Sri Divya"
-      ],
-      "source": "peoplefav"
     }
   ]
 }
