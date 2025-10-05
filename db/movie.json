@@ -256,6 +256,20 @@
         "Fahadh Faasil"
       ],
       "source": "trendingmovie"
+    },
+    {
+      "id": "02",
+      "title": "3BHK",
+      "description": "A 2025 coming-of-age family drama about a family's prolonged struggle to buy a three-bedroom house.",
+      "imageUrl": "/images/3bhk.webp",
+      "trailerUrl": "https://www.youtube.com/embed/BoxOVQ5oP9Y",
+      "cast": [
+        "Siddharth",
+        "R. Sarathkumar",
+        "Devayani",
+        "Meetha Raghunath"
+      ],
+      "source": "peoplefav"
     }
   ]
 }
